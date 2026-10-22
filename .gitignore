@@ -4,7 +4,3 @@ build/
 run/
 .idea/
 *.iml
-
-# Packaged installers and bundled mod jars (rebuildable; share these as GitHub release downloads)
-*.zip
-FlushableToilet-Installer/files/mods/*.jar
