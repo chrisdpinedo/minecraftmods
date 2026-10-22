@@ -1,0 +1,52 @@
+FLUSHABLE TOILET MOD - HOW TO INSTALL
+=====================================
+
+You need: Minecraft Java Edition on a Windows PC.
+(It won't work on Bedrock Edition: Xbox, Switch, phone, or the
+Windows Bedrock version.)
+
+You should have received this file:
+    FlushableToilet-Installer-26.3.zip
+
+
+INSTALLING
+----------
+1. Right-click the zip and choose "Extract All".
+   Don't run anything from inside the zip - the installer needs the
+   "files" folder next to it.
+
+2. Close the Minecraft Launcher completely.
+
+3. In the extracted folder, double-click "install.bat".
+   If Windows shows a blue "Windows protected your PC" screen,
+   click "More info", then "Run anyway".
+   A window shows the progress. When it says "Done!", close it.
+
+4. Open the Minecraft Launcher. Next to the Play button, pick
+   "Fabric 26.3 (Flushable Toilet)".
+
+5. Press Play. The first launch takes a minute or two while it
+   downloads Minecraft 26.3.
+
+
+CHECKING IT WORKED
+------------------
+In Creative mode, look for the "Toilet" in the Functional Blocks tab.
+
+In Survival, craft it with 4 Blocks of Quartz and a Water Bucket
+(you get the bucket back):
+
+    .  .  Q        Q = Block of Quartz
+    Q  W  Q        W = Water Bucket
+    .  Q  .
+
+Right-click the toilet to flush it. Anything dropped in the bowl gets
+flushed away - don't drop anything you want to keep!
+
+
+PLAYING TOGETHER
+----------------
+Everyone who plays needs the mod installed.
+
+1. One person opens a world, presses Esc, and chooses "Open to LAN".
+2. Everyone else goes to Multiplayer. The world shows up there to join.

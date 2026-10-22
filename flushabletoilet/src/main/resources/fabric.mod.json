@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "flushabletoilet",
+  "version": "${version}",
+  "name": "Flushable Toilet",
+  "description": "Adds a toilet you can flush. Drop items in the bowl and flush them away.",
+  "authors": ["Chris"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["net.chris.flushabletoilet.FlushableToilet"],
+    "client": ["net.chris.flushabletoilet.FlushableToiletClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

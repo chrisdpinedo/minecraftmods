@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  Q",
+    "QWQ",
+    " Q "
+  ],
+  "key": {
+    "Q": "minecraft:quartz_block",
+    "W": "minecraft:water_bucket"
+  },
+  "result": {
+    "id": "flushabletoilet:toilet",
+    "count": 1
+  }
+}

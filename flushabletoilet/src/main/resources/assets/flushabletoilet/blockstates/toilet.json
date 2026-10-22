@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,flushing=false": {"model": "flushabletoilet:block/toilet"},
+    "facing=east,flushing=false": {"model": "flushabletoilet:block/toilet", "y": 90},
+    "facing=south,flushing=false": {"model": "flushabletoilet:block/toilet", "y": 180},
+    "facing=west,flushing=false": {"model": "flushabletoilet:block/toilet", "y": 270},
+    "facing=north,flushing=true": {"model": "flushabletoilet:block/toilet_flushing"},
+    "facing=east,flushing=true": {"model": "flushabletoilet:block/toilet_flushing", "y": 90},
+    "facing=south,flushing=true": {"model": "flushabletoilet:block/toilet_flushing", "y": 180},
+    "facing=west,flushing=true": {"model": "flushabletoilet:block/toilet_flushing", "y": 270}
+  }
+}

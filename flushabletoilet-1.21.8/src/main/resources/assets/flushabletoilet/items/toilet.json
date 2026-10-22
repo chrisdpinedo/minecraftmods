@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "flushabletoilet:block/toilet",
+    "tints": [
+      {"type": "minecraft:constant", "value": -12618012}
+    ]
+  }
+}
